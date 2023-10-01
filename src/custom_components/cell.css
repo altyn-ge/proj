@@ -1,0 +1,27 @@
+.firstLine {
+    font-weight: bold;
+}
+
+.singleCell{
+    margin-bottom: 100px;
+    width: 1000px;
+}
+
+.notFirstLine{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+a {
+    color: lightblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: lightcyan
+}
+
+a:click{
+    color: darkblue;
+}
